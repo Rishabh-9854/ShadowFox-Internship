@@ -45,7 +45,7 @@ Grateful to the team at **ShadowFox Inc.** for their guidance and mentorship thr
 ### 📫 Contact
 **Rishabh Sonkar**  
 📧 Email: rishabh352002@gmail.com  
-🔗 LinkedIn: [Your LinkedIn Profile]  
 💻 GitHub: https://github.com/Rishabh-9854
 
 ---
+
